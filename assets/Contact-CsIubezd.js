@@ -1,1 +1,0 @@
-import{j as s}from"./index-wn-AqcAR.js";const a=()=>s.jsxs("div",{className:"p-4",children:[s.jsx("h1",{className:"text-3xl font-bold",children:"Contact Us"}),s.jsx("p",{className:"mt-2",children:"This is the contact page."})]});export{a as default};
